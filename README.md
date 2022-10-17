@@ -19,7 +19,7 @@ Jogo de Jokempo com Diferentes linguagens
 
 2. Jogo:
 
-2.1 One Player (Player x Machine)
+2.1. One Player (Player x Machine)
 - Gera Player 1 e Machine
 - Player 1 escolhe jogada
 - Verificar se Player 1 quer sair do jogo
@@ -27,7 +27,7 @@ Jogo de Jokempo com Diferentes linguagens
 - Mostra resultado
 - Volta a escolha do Player 1
 
-2.2 Two Players (Player x Player)
+2.2. Two Players (Player x Player)
 - Gera Player 1 e Player 2
 - Player 1 escolhe jogada
 - Verificar se Player 1 quer sair do jogo
